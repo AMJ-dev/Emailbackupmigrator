@@ -28,6 +28,7 @@ The `accounts_list.txt` file should contain entries like the following:
 
 ```
 test@example.com:password123
+
 john.doe@example.com:password456
 ```
 
