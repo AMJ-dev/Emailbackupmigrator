@@ -64,7 +64,7 @@ Make sure your .eml files are organized as specified.
 
 Execute the script in your terminal:
 
-python3 eml_importer.py
+python3 emailbackupmigrator.py
 
 Error Handling
 The script includes error handling for various exceptions, including issues with IMAP connection, file access, and date parsing. In case of errors, descriptive messages will be printed to help diagnose the issue.
