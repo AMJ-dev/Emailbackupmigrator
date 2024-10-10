@@ -1,1 +1,2 @@
-
+#This lists email accounts and passwords of the accounts to be imported into
+test@example.com:password
