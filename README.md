@@ -93,11 +93,3 @@ The script includes error handling for various exceptions, including issues with
 
 This script is provided as-is. Use it at your own risk.
 ```
-
-### Key Formatting Features
-- **Headings**: Used to create a clear hierarchy of information.
-- **Code Blocks**: Utilized for showing code snippets and file structures.
-- **Bullet Points**: Organized requirements and parameters for easy reading.
-- **Bold Text**: Highlighted key terms for emphasis.
-
-You can simply copy this text into your `README.md` file in your GitHub repository, and it should render correctly. Let me know if you need any further adjustments!
