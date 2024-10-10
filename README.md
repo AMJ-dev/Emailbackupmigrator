@@ -20,12 +20,12 @@ test@example.com:password123
 john.doe@example.com:password456
 
 The backup directory structure should look like this:
-/home/ec2-user/migrationtest/
+/path/to/backup-folder/
 ├── accounts_list.txt
-└── mathias.jacobs@customs.gov.ng/
+└── test@example.com/
     ├── This is a webmail test.eml
     └── Another email.eml
-└── john.doe@customs.gov.ng/
+└── john.doe@example.com/
     ├── Example email.eml
     
 Functions
