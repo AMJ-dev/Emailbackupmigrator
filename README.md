@@ -1,5 +1,3 @@
-Here’s a well-formatted README suitable for GitHub, using Markdown syntax for clarity and organization:
-
 ```markdown
 # EML Importer Script
 
