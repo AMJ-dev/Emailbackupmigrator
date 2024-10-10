@@ -1,5 +1,7 @@
-EML Importer Script
-Overview
+#EML Importer Script
+
+#Overview
+
 This Python script imports .eml email files into specified email accounts using the IMAP protocol. It connects to a designated IMAP server, reads email files from a local directory, and appends them to the inbox of the respective accounts specified in a configuration file.
 
 Requirements:
