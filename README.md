@@ -74,7 +74,7 @@ migrated_accounts_log = "/path/To/Migration-Folder/migrated_accounts.txt"
 3. Run the script:
 
 ```bash
-python migration_script.py
+python3 emailbackupmigrator.py
 ```
 
 The script will automatically process all the accounts in `accounts_list.txt`, migrate their emails to the IMAP server, and log the progress.
